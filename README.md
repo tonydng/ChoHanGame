@@ -1,21 +1,22 @@
+# ChoHanGame
 Game Specification
 
-Programmer Name: Tony Nguyen
-Program Name: Cho-han (group 26)
-Date: 09/23/2015
+Programmer Name: Tony Nguyen<br>
+Program Name: ChoHanGame (group 26)<br>
+Date: 09/23/2015<br><br><br>
 
 
-Cho-Han:
-Player vs. House
-House Rolls dice (stays hidden)
-Players bets, guesses even or odd
-Dice revealed
-Players wins if guess matches, amount bet is received in double as winnings
-Player loses if guess doesn’t match, amount bet is lost
-Game ends when:
-Users money = $1000
-Users money = $0
-User quits
-Additional Ideas:
-Multiple bet types for added bonuses
+Cho-Han:<br>
+Player vs. House<br>
+House Rolls dice (stays hidden)<br>
+Players bets, guesses even or odd<br>
+Dice revealed<br>
+Players wins if guess matches, amount bet is received in double as winnings<br>
+Player loses if guess doesn’t match, amount bet is lost<br>
+Game ends when:<br>
+Users money = $1000<br>
+Users money = $0<br>
+User quits<br>
+Additional Ideas:<br>
+Multiple bet types for added bonuses<br>
 Combo bonus on multiple wins in a row (x1, x2, x3) resets when guess is incorrect
